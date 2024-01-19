@@ -1,7 +1,7 @@
 # Hugging Face - Sentiment Analysis
 > Made as a side-project during the third year of the CY TECH Engineer Path
 
-> Developped in September 2021. Edited in January 2021.
+> Developped in September 2021. Edited in January 2024.
 
 <br>
 
