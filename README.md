@@ -53,7 +53,7 @@ The local deployment is based on Docker. Thus, to correctly launch our interface
 #### **1° - Clone the Repository**
 Firstly, you must clone this repository. To do so, you can use the following command.
 ```bash
-git clone https://github.com/dorian-roux/cc-classification-huggingface
+git clone https://github.com/dorian-roux/HuggingFace-SentimentAnalysis
 ```
 
 #### **2° - Obtain the Access Token**
